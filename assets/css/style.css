@@ -1,0 +1,42 @@
+body{
+    font-family: "Lobster", cursive;
+    font-family: "Cabin", sans-serif;
+
+}
+
+.bg-dark{
+    background: #373a3c !important;
+}
+
+header{
+    width: 100%;
+    height: auto;
+}
+
+.hr-arriba{
+    display: block;
+}
+
+.cuerpo{
+
+}
+
+.titulo{
+    margin-top: 3em;
+}
+
+#carrusel img{
+    width: 233px;
+    height: 170px;
+}
+
+.newsletter {
+    padding-top: 95.6px;
+    padding-left: 37px;
+    padding-right: 37px;
+    padding-bottom: 95px;
+  }
+
+
+  .titulos{
+  }
